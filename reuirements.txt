@@ -1,6 +1,6 @@
-streamlit 
-pandas 
-matolotlib
+streamlit
+pandas
+matplotlib==3.8.3
 numpy
 PIL
 pathlib
